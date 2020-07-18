@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="..\venta.h" open="1" top="1" tabpos="10" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22684" topLine="1224" />
+		</Cursor>
+		<Folding>
+			<Collapse line="186" />
+			<Collapse line="207" />
+			<Collapse line="232" />
+		</Folding>
+	</File>
+	<File name="..\persona.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1542" topLine="2" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="20" />
+		</Folding>
+	</File>
+	<File name="..\consultas.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="369" topLine="72" />
+		</Cursor>
+	</File>
+	<File name="..\Configuracion.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13145" topLine="678" />
+		</Cursor>
+	</File>
+	<File name="..\ProductoJuego.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11437" topLine="460" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="29" />
+			<Collapse line="51" />
+			<Collapse line="90" />
+			<Collapse line="105" />
+			<Collapse line="114" />
+			<Collapse line="135" />
+			<Collapse line="150" />
+			<Collapse line="213" />
+			<Collapse line="241" />
+			<Collapse line="260" />
+		</Folding>
+	</File>
+	<File name="..\empleado.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2778" topLine="26" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="27" />
+		</Folding>
+	</File>
+	<File name="..\fecha.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="691" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+		</Folding>
+	</File>
+	<File name="..\Proveedores.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2284" topLine="324" />
+		</Cursor>
+	</File>
+	<File name="..\informe.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2277" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="15" />
+			<Collapse line="52" />
+			<Collapse line="87" />
+		</Folding>
+	</File>
+	<File name="..\main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4254" topLine="269" />
+		</Cursor>
+	</File>
+	<File name="..\mercaderia.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6416" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\Clientes.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5826" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

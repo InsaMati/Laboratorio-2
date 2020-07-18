@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1574341943 source:c:\users\usuario\desktop\tp 2.11\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<ctime>
+	<conio.h>
+	"fecha.h"
+	"persona.h"
+	"empleado.h"
+	"mercaderia.h"
+	"ProductoJuego.h"
+	"Proveedores.h"
+	"Clientes.h"
+	"venta.h"
+	"Configuracion.h"
+	"consultas.h"
+	"informe.h"
+
+1574355820 c:\users\usuario\desktop\tp 2.11\fecha.h
+
+1576636975 c:\users\usuario\desktop\tp 2.11\persona.h
+
+1576639998 c:\users\usuario\desktop\tp 2.11\empleado.h
+
+1573854574 c:\users\usuario\desktop\tp 2.11\mercaderia.h
+
+1576710391 c:\users\usuario\desktop\tp 2.11\productojuego.h
+
+1573925004 c:\users\usuario\desktop\tp 2.11\proveedores.h
+
+1573925491 c:\users\usuario\desktop\tp 2.11\clientes.h
+
+1576710499 c:\users\usuario\desktop\tp 2.11\venta.h
+
+1573874992 c:\users\usuario\desktop\tp 2.11\configuracion.h
+
+1573919595 c:\users\usuario\desktop\tp 2.11\consultas.h
+
+1576617510 c:\users\usuario\desktop\tp 2.11\informe.h
+
+1574341943 source:c:\users\usuario\desktop\cosmo alexander, insaurralde matias\tp 2.11\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<ctime>
+	<conio.h>
+	"fecha.h"
+	"persona.h"
+	"empleado.h"
+	"mercaderia.h"
+	"ProductoJuego.h"
+	"Proveedores.h"
+	"Clientes.h"
+	"venta.h"
+	"Configuracion.h"
+	"consultas.h"
+	"informe.h"
+
+1574355820 c:\users\usuario\desktop\cosmo alexander, insaurralde matias\tp 2.11\fecha.h
+
+1576636975 c:\users\usuario\desktop\cosmo alexander, insaurralde matias\tp 2.11\persona.h
+
+1576639998 c:\users\usuario\desktop\cosmo alexander, insaurralde matias\tp 2.11\empleado.h
+
+1573854574 c:\users\usuario\desktop\cosmo alexander, insaurralde matias\tp 2.11\mercaderia.h
+
+1576710391 c:\users\usuario\desktop\cosmo alexander, insaurralde matias\tp 2.11\productojuego.h
+
+1573925004 c:\users\usuario\desktop\cosmo alexander, insaurralde matias\tp 2.11\proveedores.h
+
+1573925491 c:\users\usuario\desktop\cosmo alexander, insaurralde matias\tp 2.11\clientes.h
+
+1576710499 c:\users\usuario\desktop\cosmo alexander, insaurralde matias\tp 2.11\venta.h
+
+1573874992 c:\users\usuario\desktop\cosmo alexander, insaurralde matias\tp 2.11\configuracion.h
+
+1573919595 c:\users\usuario\desktop\cosmo alexander, insaurralde matias\tp 2.11\consultas.h
+
+1576617510 c:\users\usuario\desktop\cosmo alexander, insaurralde matias\tp 2.11\informe.h
+
+1594940178 source:c:\users\matia\downloads\cosmo_alexander_insaurralde_matias\cosmo alexander, insaurralde matias\tp 2.11\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<ctime>
+	<conio.h>
+	"fecha.h"
+	"persona.h"
+	"empleado.h"
+	"mercaderia.h"
+	"ProductoJuego.h"
+	"Proveedores.h"
+	"Clientes.h"
+	"venta.h"
+	"Configuracion.h"
+	"consultas.h"
+	"informe.h"
+
+1574355820 c:\users\matia\downloads\cosmo_alexander_insaurralde_matias\cosmo alexander, insaurralde matias\tp 2.11\fecha.h
+
+1576636975 c:\users\matia\downloads\cosmo_alexander_insaurralde_matias\cosmo alexander, insaurralde matias\tp 2.11\persona.h
+
+1576639998 c:\users\matia\downloads\cosmo_alexander_insaurralde_matias\cosmo alexander, insaurralde matias\tp 2.11\empleado.h
+
+1573854574 c:\users\matia\downloads\cosmo_alexander_insaurralde_matias\cosmo alexander, insaurralde matias\tp 2.11\mercaderia.h
+
+1576710391 c:\users\matia\downloads\cosmo_alexander_insaurralde_matias\cosmo alexander, insaurralde matias\tp 2.11\productojuego.h
+
+1573925004 c:\users\matia\downloads\cosmo_alexander_insaurralde_matias\cosmo alexander, insaurralde matias\tp 2.11\proveedores.h
+
+1573925491 c:\users\matia\downloads\cosmo_alexander_insaurralde_matias\cosmo alexander, insaurralde matias\tp 2.11\clientes.h
+
+1594940178 c:\users\matia\downloads\cosmo_alexander_insaurralde_matias\cosmo alexander, insaurralde matias\tp 2.11\venta.h
+
+1573874992 c:\users\matia\downloads\cosmo_alexander_insaurralde_matias\cosmo alexander, insaurralde matias\tp 2.11\configuracion.h
+
+1573919595 c:\users\matia\downloads\cosmo_alexander_insaurralde_matias\cosmo alexander, insaurralde matias\tp 2.11\consultas.h
+
+1594940178 c:\users\matia\downloads\cosmo_alexander_insaurralde_matias\cosmo alexander, insaurralde matias\tp 2.11\informe.h
+
